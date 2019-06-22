@@ -17,8 +17,5 @@ var Letter = function (wordcharacter) {
        }
    }
 }
-// var letter = new Letter("a")
-// var usercharacter = "a"
-// letter.checkcharacter()
-// console.log (letter.showletter())
+
 module.exports = Letter

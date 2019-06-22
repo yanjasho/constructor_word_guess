@@ -22,10 +22,5 @@ var Word = function(wordtoguess){
         })  
     }  
 }
-// var word = new Word("table")
-// word.wordtoguess()
-// var usercharacter = "a"
-// word.showcharacter()
-// console.log(word.showstring())
 
 module.exports = Word

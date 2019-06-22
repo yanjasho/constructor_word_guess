@@ -86,7 +86,7 @@ function newgame () {
             })
         }
         else{
-            console.log("You are out of guesses!"+"\nIt was " +chosenword.toUpperCase())
+            console.log("You are out of guesses!"+"\nIt was: " +chosenword.toUpperCase())
             inquirer.prompt([
                 { 
                     type: "confirm",
