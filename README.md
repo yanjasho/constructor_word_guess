@@ -7,9 +7,13 @@ If you wish to clone and run it, you will have to run 'npm install' to get fs an
 Once you guessed (or not) you have an option to guess another one or quit.
 
 *If you win
+
 ![won](screenshots/won.png)
 
 *If you lose
+
 ![Lost](screenshots/lost.png)
 
 See it alive:
+
+https://drive.google.com/file/d/1PRMyovISIki_46axkG3kDv-Af_yPJto7/view
