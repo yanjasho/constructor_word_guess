@@ -16,7 +16,7 @@ var Word = function(wordtoguess){
         })
         return wordwith_
     },
-    this.showcharacter = function(){
+    this.showcharacter = function(usercharacter){
         this.wordarray.forEach(element => {
            element.checkcharacter(usercharacter)
         })  
